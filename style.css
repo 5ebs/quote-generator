@@ -32,7 +32,7 @@ body {
   font-size: 2.75rem;
 }
 .long-quote {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .fa-quote-left {
   font-size: 4rem;
@@ -82,7 +82,7 @@ button:active {
 /* Loader */
 .loader {
   border: 16px solid #f3f3f3;
-  border-top: 16px solid #1F0700;
+  border-top: 16px solid #1f0700;
   border-radius: 50%;
   width: 120px;
   height: 120px;
